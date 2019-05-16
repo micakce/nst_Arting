@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nst_Arting/static/css/main.d0d851e0.chunk.css",
+    "main.js": "/nst_Arting/static/js/main.e7954486.chunk.js",
+    "main.js.map": "/nst_Arting/static/js/main.e7954486.chunk.js.map",
+    "runtime~main.js": "/nst_Arting/static/js/runtime~main.932eb95b.js",
+    "runtime~main.js.map": "/nst_Arting/static/js/runtime~main.932eb95b.js.map",
+    "static/js/2.d8a1cfcd.chunk.js": "/nst_Arting/static/js/2.d8a1cfcd.chunk.js",
+    "static/js/2.d8a1cfcd.chunk.js.map": "/nst_Arting/static/js/2.d8a1cfcd.chunk.js.map",
+    "index.html": "/nst_Arting/index.html",
+    "precache-manifest.ef1422bec3cb6ca199058dec549ed899.js": "/nst_Arting/precache-manifest.ef1422bec3cb6ca199058dec549ed899.js",
+    "service-worker.js": "/nst_Arting/service-worker.js",
+    "static/css/main.d0d851e0.chunk.css.map": "/nst_Arting/static/css/main.d0d851e0.chunk.css.map",
+    "static/media/castle.jpg": "/nst_Arting/static/media/castle.ac96347d.jpg",
+    "static/media/castle_style.jpg": "/nst_Arting/static/media/castle_style.cd9e5b70.jpg"
+  }
+}

@@ -16,6 +16,8 @@ The notebook is very self-explanatory so we are going to jump right to the resul
 
 |content||style||output|
 |:---:|:---:|:---:|:---:|:---:|
-|![Casa Rosada](./content_images/casa_rosada.jpg)|+|![Casa Rosada](./style_images/starry_night_comic.jpg)| = |![Casa Rosada](./output/cascade+starry_night_comic - layer1-3.1_800epochs.jpg)|
+|![Casa Rosada](./content_images/casa_rosada.jpg)|+|![Tree House Style](./style_images/tree_house.png)| = |![Output Image](./output/casa_rosa+house_tree-layer_1-3.1.jpg)|
+|![Casa Rosada](./content_images/casa_rosada.jpg)|+|![Tree House Style](./style_images/tree_house.png) ![Espanta Pájaros](./style_images/style_3.jpg)| = |![Output Image](./output/casa_rosa+house_tree.5+devil.5-layer_1-3.1_500epochs.png)|
+|![Waterfall](./content_images/waterfall_rainbow.jpg)|+|![Starry Night Comic](./style_images/starry_night_comic.jpg)| = |![Output Image](./output/cascade+starry_night_comic-layer1-3.1_800epochs.jpg)|
+|![Waterfall](./content_images/waterfall_rainbow.jpg)|+|![Starry Night Comic](./style_images/starry_night_comic.jpg)![Dripping Colors Style](./style_images/dripping_colors.jpg)| = |![Output Image](./output/cascade+starry_night_comic.5+dripping_colors.5-layer1-3.1_2500epochs.jpg)|
 |<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/brussel_street.jpg" alt="Brussel" width=100% />|+|<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/the_scream.jpg" alt="Scream" width=100%>| = |<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/the_scream.jpg" alt="Output" />|
-|<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/brussel_street.jpg" alt="Brussel" width=100% /> Esta al 50%|+|<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/the_scream.jpg" alt="Scream" width=100%> Esta al 25%| = |<img src="https://github.com/micakce/nst_Arting/blob/master/style_images/the_scream.jpg" alt="Output" />|

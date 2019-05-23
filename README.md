@@ -19,3 +19,6 @@ The notebook is very self-explanatory so we are going to jump right to the resul
 |<img alt="Casa Rosada" src="./content_images/casa_rosada.jpg"  width=400 >|+|<img alt="Tree House Style" src="./style_images/tree_house.png" width=200 ><img alt="Tree House Style" src="./style_images/jeepers.jpg" width=200 >|=|<img alt="OutputImage" src="./output/casa_rosa+house_tree.5+devil.5-layer_1-3.1_500epochs.png" width=400 >|
 |<img alt="Waterfall" src="./content_images/waterfall_rainbow.jpg" width=400 >|+|<img alt="Starry Night Comic" src="./style_images/starry_night_comic.jpg" width=400 >| = |<img alt="OutputImage" src="./output/cascade+starry_night_comic-layer1-3.1_800epochs.jpg" width=400 >|
 |<img alt="waterfall" src="./content_images/waterfall_rainbow.jpg" width=400 >|+|<img alt="Starry Night Comic" src="./style_images/starry_night_comic.jpg" width=200 ><img alt="Dripping Colors" src="./style_images/dripping_colors.jpg" width=200 >| = |<img alt="OutputImage" src="./output/cascade+starry_night_comic.5+dripping_colors.5-layer1-3.1_2500epochs.jpg" width=400 >|
+
+
+To go right to the colab notebook [click here](https://colab.research.google.com/github/micakce/nst_Arting/blob/master/Art_Generation_with_Neural_Style_Transfer.ipynb)

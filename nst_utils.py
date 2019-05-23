@@ -185,7 +185,4 @@ def save_image(path, image):
 
     # Clip and Save the image
     image = np.clip(image[0], 0, 255).astype('uint8')
-    try:
-        scipy.misc.imsave(path, image)
-    except:
-        Image.fromarray(image).save(path)
+    Image.fromarray(image).save(path)
